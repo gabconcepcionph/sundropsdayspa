@@ -1,0 +1,49 @@
+TODO — Sundrops Day Spa Landing Page
+Generated: 2026-05-26
+========================================
+
+CRITICAL (blocks launch)
+------------------------
+[ ] Add favicon files (favicon.svg, favicon.ico)
+[ ] Verify Google Maps embed displays correctly (placeholder coordinates used)
+
+CONTENT (needs real copy or data)
+----------------------------------
+[ ] Reviews section: no reviews found — add 3-5 customer testimonials
+[ ] Services section: prices not available — add pricing information
+[ ] About section: add more detailed business story/history
+
+IMAGES (files to source and drop into images/)
+-----------------------------------------------
+[ ] images/hero.jpg — downloaded from Unsplash (salon interior)
+[ ] images/about.jpg — downloaded from Unsplash (staff/team)
+[ ] images/gallery/01.jpg through 06.jpg — downloaded from Unsplash
+
+SEO (complete before going live)
+---------------------------------
+[ ] Confirm og:locale matches target market (currently en_PH)
+[ ] Submit sitemap.xml to Google Search Console after deploy
+[ ] Validate JSON-LD at https://search.google.com/test/rich-results
+
+ALL DONE ✓ (no action needed)
+------------------------------
+[ ] Business name extracted: Sundrops Day Spa
+[ ] Address extracted: 5th floor, BUILDING A, SM Megamall
+[ ] Phone extracted: 09272312186
+[ ] Hours extracted: Monday to Sunday, 10:00 AM - 9:00 PM
+[ ] Social media links added (Facebook, Instagram)
+[ ] Navigation structure complete
+[ ] Hero section with gradient overlay
+[ ] About section with image
+[ ] Services section with 6 service cards
+[ ] Gallery section with 6 images
+[ ] Contact section with map embed
+[ ] Footer with quick links and contact info
+[ ] Preview banner with close functionality
+[ ] Smooth scroll for anchor links
+[ ] Mobile-responsive design
+[ ] Tailwind CSS v3 configuration
+[ ] Google Fonts integration
+[ ] LocalBusiness JSON-LD schema
+[ ] SEO meta tags (title, description, keywords, OG, Twitter)
+[ ] Geo tags for local SEO
